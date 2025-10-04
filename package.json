@@ -1,7 +1,7 @@
 {
   "name": "dl70-ui",
   "version": "1.2.0",
-  "description": "A beautiful, customizable, and accessible React toast notification component library",
+  "description": "A beautiful, feature-rich, and highly customizable React toast notification component library with action buttons, loading states, promise integration, queue management, and advanced animations",
   "license": "MIT",
   "author": "Shivam Singh",
   "type": "commonjs",

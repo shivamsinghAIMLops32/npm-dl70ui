@@ -27,7 +27,6 @@ const Toast = ({
   const [currentX, setCurrentX] = useState(0);
   const [isDragging, setIsDragging] = useState(false);
   const toastRef = useRef(null);
-  const audioRef = useRef(null);
 
   // Auto-detect dark mode
   const [isDarkMode, setIsDarkMode] = useState(false);

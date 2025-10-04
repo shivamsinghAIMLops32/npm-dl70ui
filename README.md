@@ -1,18 +1,33 @@
-# DL70 UI - Toast Component
+# DL70 UI - Enhanced Toast Component v2.0 🎉
 
-A beautiful, customizable, and accessible React toast notification component library.
+A beautiful, feature-rich, and highly customizable React toast notification component library with advanced functionality.
+
+## ✨ What's New in v2.0
+
+- 🎯 **Action Buttons** - Add interactive buttons to toasts
+- ⏳ **Loading States** - Built-in loading spinners and states
+- 🔮 **Promise Integration** - Automatic loading → success/error flow
+- 📋 **Queue Management** - Smart toast queuing system
+- 🎭 **Animation Variants** - Multiple entrance animations
+- 🌙 **Theme Support** - Dark/Light/Auto theme detection
+- 🔊 **Sound Effects** - Optional audio notifications
+- 👆 **Swipe to Dismiss** - Touch gesture support
+- 📝 **Rich Content** - Full JSX content support
+- ⌨️ **Keyboard Navigation** - Enhanced accessibility
+- 📱 **Better Mobile** - Improved responsive design
 
 ## Features
 
-- 🎨 **Multiple toast types**: success, error, warning, info
+- 🎨 **Multiple toast types**: success, error, warning, info, loading
 - 📍 **Flexible positioning**: 6 different positions (corners and centers)
 - ⏱️ **Customizable duration**: Auto-dismiss or persistent toasts
 - 🎭 **Pause on hover**: Toasts pause when hovered
 - 🎯 **Accessible**: ARIA labels and keyboard navigation
-- 📱 **Responsive**: Mobile-friendly design
-- 🎪 **Smooth animations**: CSS transitions and animations
-- 🔧 **TypeScript support**: Full TypeScript definitions (coming soon)
+- 📱 **Responsive**: Mobile-friendly design with swipe gestures
+- 🎪 **Smooth animations**: Multiple animation variants
 - 🎨 **Customizable styling**: Override CSS or add custom classes
+- 🔧 **Queue system**: Limit max visible toasts
+- 🌈 **Modern design**: Gradients, blur effects, rounded corners
 
 ## Installation
 
