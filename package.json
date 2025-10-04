@@ -28,12 +28,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/dl70-ui.git"
+    "url": "https://github.com/shivamsinghAIMLops32/npm-dl70ui .git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/dl70-ui/issues"
+    "url": "https://github.com/shivamsinghAIMLops32/npm-dl70ui/issues"
   },
-  "homepage": "https://github.com/your-username/dl70-ui#readme",
+  "homepage": "https://github.com/shivamsinghAIMLops32/npm-dl70ui#readme",
   "scripts": {
     "build": "npm run build:cjs && npm run build:es",
     "build:cjs": "babel src --out-dir lib --copy-files",
