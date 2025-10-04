@@ -86,7 +86,10 @@ function EnhancedToastDemo() {
           {
             label: "Learn More",
             onClick: () =>
-              window.open("https://github.com/your-repo", "_blank"),
+              window.open(
+                "https://github.com/shivamsinghAIMLops32/npm-dl70ui",
+                "_blank"
+              ),
             style: "primary",
           },
         ],

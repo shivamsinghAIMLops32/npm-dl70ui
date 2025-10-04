@@ -1,35 +1,30 @@
-# DL70 UI - Enhanced Toast Component v2.0 🎉
+# 🎉 DL70 UI - Enhanced Toast Component Library v2.0
 
-A beautiful, feature-rich, and highly customizable React toast notification component library with advanced functionality.
+[![npm version](https://badge.fury.io/js/dl70-ui.svg)](https://badge.fury.io/js/dl70-ui)
+[![GitHub issues](https://img.shields.io/github/issues/shivamsinghAIMLops32/npm-dl70ui)](https://github.com/shivamsinghAIMLops32/npm-dl70ui/issues)
+[![GitHub stars](https://img.shields.io/github/stars/shivamsinghAIMLops32/npm-dl70ui)](https://github.com/shivamsinghAIMLops32/npm-dl70ui/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A beautiful, feature-rich, and highly customizable React toast notification component library with advanced functionality including action buttons, loading states, promise integration, queue management, and modern animations.
+
+## 🚀 Live Demo
+
+Check out the [interactive demo](https://npm-dl70ui.vercel.app) to see all features in action!
 
 ## ✨ What's New in v2.0
 
-- 🎯 **Action Buttons** - Add interactive buttons to toasts
-- ⏳ **Loading States** - Built-in loading spinners and states
-- 🔮 **Promise Integration** - Automatic loading → success/error flow
-- 📋 **Queue Management** - Smart toast queuing system
-- 🎭 **Animation Variants** - Multiple entrance animations
-- 🌙 **Theme Support** - Dark/Light/Auto theme detection
-- 🔊 **Sound Effects** - Optional audio notifications
-- 👆 **Swipe to Dismiss** - Touch gesture support
-- 📝 **Rich Content** - Full JSX content support
-- ⌨️ **Keyboard Navigation** - Enhanced accessibility
-- 📱 **Better Mobile** - Improved responsive design
-
-## Features
-
-- 🎨 **Multiple toast types**: success, error, warning, info, loading
-- 📍 **Flexible positioning**: 6 different positions (corners and centers)
-- ⏱️ **Customizable duration**: Auto-dismiss or persistent toasts
-- 🎭 **Pause on hover**: Toasts pause when hovered
-- 🎯 **Accessible**: ARIA labels and keyboard navigation
-- 📱 **Responsive**: Mobile-friendly design with swipe gestures
-- 🎪 **Smooth animations**: Multiple animation variants
-- 🎨 **Customizable styling**: Override CSS or add custom classes
-- 🔧 **Queue system**: Limit max visible toasts
-- 🌈 **Modern design**: Gradients, blur effects, rounded corners
-
-## Installation
+- 🎯 **Action Buttons** - Add interactive buttons to toasts with custom callbacks
+- ⏳ **Loading States** - Built-in loading spinners and loading management
+- 🔮 **Promise Integration** - Automatic loading → success/error flow for async operations
+- 📋 **Queue Management** - Smart toast queuing system with configurable limits
+- 🎭 **Animation Variants** - Multiple entrance animations (slide, fade, bounce, flip)
+- 🌙 **Theme Support** - Dark/Light/Auto theme detection with CSS custom properties
+- 🔊 **Sound Effects** - Optional audio notifications for better UX
+- 👆 **Swipe to Dismiss** - Touch gesture support for mobile devices
+- 📝 **Rich Content** - Full JSX content support for complex messages
+- ⌨️ **Keyboard Navigation** - Enhanced accessibility with keyboard controls
+- � **Better Mobile** - Improved responsive design and touch interactions
+- � **Modern Design** - Gradients, blur effects, rounded corners, and smooth animations## Installation
 
 ```bash
 npm install dl70-ui
